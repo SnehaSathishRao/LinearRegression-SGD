@@ -1,0 +1,2 @@
+# Linear-Regression_SGD
+Linear regression is one of the most basic ways we can model relationships. Our model here can be described as y=mx+b, where m is the slope (to change the steepness), b is the bias (to move the line up and down the graph), x is the explanatory variable, and y is the output. For linear regressions we use a cost function known as the mean squared error or MSE. We take the squared value of our real data points minus the approximated values.  
